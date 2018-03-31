@@ -1,1 +1,4 @@
-docker-cl-pack
+/docker-cl-pack
+/build
+/test
+/app.ros
